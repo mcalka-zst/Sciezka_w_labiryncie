@@ -30,7 +30,7 @@ for i in range (m):
             tab[xW]=tab[xW][0:yW]+"."+tab[xW][yW+1:] # zamieniamy W na "."   
             # w wierszu nr xW podmieniamy znak nr yW   
     print()
-# szukamt ścieżki metoda BFS
+# szukamy ścieżki metoda BFS
 x=-1 # bieżący wiersz
 y=-1 # bieżąca kolumna
 kolejka=[]
